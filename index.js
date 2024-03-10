@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Elmés Beszélgetések dc"];
+const statusMessages = ["Nézi az Elmés Beszélgetések dc-t"];
 
 
 let currentIndex = 0;
