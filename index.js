@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Nézi az Elmés Beszélgetések dc-t"];
+ const statusMessages = ["/parancsok a kezdéshez"];
 
 
 let currentIndex = 0;
